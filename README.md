@@ -1,4 +1,5 @@
 # Session 2 – JSX, Components, and Props in ReactJS
+# Session Slide is in the repo under name Session 2_ JSX, Components, and Props.pdf
 
 ## 📚 Topics Covered
 
@@ -44,7 +45,7 @@ Reusing a task component for both
  Add a new task using a text input and an "Add" button (Button.jsx - Input.jsx)
 
  View active tasks in a "To-Do" list (Todolist.jsx)
- 
+
  Text Component for completed Tasks and pending tasks (CustomText.jsx)
 
  Mark tasks as completed (Checkbox.js)
